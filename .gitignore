@@ -1,0 +1,14 @@
+*.suo
+*db
+*ipch
+*vsidx
+*.lock
+*.cpp
+*.sln
+*.filters
+*.user
+*.tlog
+*.vcxproj
+*.ilk
+*.log
+*.obj
